@@ -37,6 +37,8 @@ Which of the following does short-circuiting not prevent?
 
 ???
 
+- Exceptions being thrown & Expensive calculations
+- Expensive calculations & Run-time errors
+- Run-time errors
 - Exceptions being thrown
 - Expensive calculations
-- Run-time errors
